@@ -15,6 +15,7 @@
 		4253CD192BB8DEAF009CD4EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4253CD182BB8DEAF009CD4EA /* Preview Assets.xcassets */; };
 		42FF1E6A2BB9112D00D94A15 /* HostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF1E692BB9112D00D94A15 /* HostView.swift */; };
 		42FF1E6C2BB913BB00D94A15 /* JoinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF1E6B2BB913BB00D94A15 /* JoinView.swift */; };
+		42FF1E6E2BB91EFC00D94A15 /* DuckChatMultipeerSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF1E6D2BB91EFC00D94A15 /* DuckChatMultipeerSession.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4253CD1A2BB8DEAF009CD4EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		42FF1E692BB9112D00D94A15 /* HostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HostView.swift; sourceTree = "<group>"; };
 		42FF1E6B2BB913BB00D94A15 /* JoinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoinView.swift; sourceTree = "<group>"; };
+		42FF1E6D2BB91EFC00D94A15 /* DuckChatMultipeerSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuckChatMultipeerSession.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				42FF1E692BB9112D00D94A15 /* HostView.swift */,
 				42FF1E6B2BB913BB00D94A15 /* JoinView.swift */,
 				4253CD132BB8DEAE009CD4EA /* ImmersiveView.swift */,
+				42FF1E6D2BB91EFC00D94A15 /* DuckChatMultipeerSession.swift */,
 				4253CD152BB8DEAF009CD4EA /* Assets.xcassets */,
 				4253CD1A2BB8DEAF009CD4EA /* Info.plist */,
 				4253CD172BB8DEAF009CD4EA /* Preview Content */,
@@ -163,6 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42FF1E6E2BB91EFC00D94A15 /* DuckChatMultipeerSession.swift in Sources */,
 				4253CD122BB8DEAE009CD4EA /* ContentView.swift in Sources */,
 				4253CD102BB8DEAE009CD4EA /* RealityKitDuckApp.swift in Sources */,
 				42FF1E6A2BB9112D00D94A15 /* HostView.swift in Sources */,
