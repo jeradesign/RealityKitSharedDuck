@@ -13,6 +13,8 @@
 		4253CD142BB8DEAE009CD4EA /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4253CD132BB8DEAE009CD4EA /* ImmersiveView.swift */; };
 		4253CD162BB8DEAF009CD4EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4253CD152BB8DEAF009CD4EA /* Assets.xcassets */; };
 		4253CD192BB8DEAF009CD4EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4253CD182BB8DEAF009CD4EA /* Preview Assets.xcassets */; };
+		42FF1E6A2BB9112D00D94A15 /* HostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF1E692BB9112D00D94A15 /* HostView.swift */; };
+		42FF1E6C2BB913BB00D94A15 /* JoinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF1E6B2BB913BB00D94A15 /* JoinView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4253CD152BB8DEAF009CD4EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4253CD182BB8DEAF009CD4EA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4253CD1A2BB8DEAF009CD4EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42FF1E692BB9112D00D94A15 /* HostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HostView.swift; sourceTree = "<group>"; };
+		42FF1E6B2BB913BB00D94A15 /* JoinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoinView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 			children = (
 				4253CD0F2BB8DEAE009CD4EA /* RealityKitDuckApp.swift */,
 				4253CD112BB8DEAE009CD4EA /* ContentView.swift */,
+				42FF1E692BB9112D00D94A15 /* HostView.swift */,
+				42FF1E6B2BB913BB00D94A15 /* JoinView.swift */,
 				4253CD132BB8DEAE009CD4EA /* ImmersiveView.swift */,
 				4253CD152BB8DEAF009CD4EA /* Assets.xcassets */,
 				4253CD1A2BB8DEAF009CD4EA /* Info.plist */,
@@ -159,6 +165,8 @@
 			files = (
 				4253CD122BB8DEAE009CD4EA /* ContentView.swift in Sources */,
 				4253CD102BB8DEAE009CD4EA /* RealityKitDuckApp.swift in Sources */,
+				42FF1E6A2BB9112D00D94A15 /* HostView.swift in Sources */,
+				42FF1E6C2BB913BB00D94A15 /* JoinView.swift in Sources */,
 				4253CD142BB8DEAE009CD4EA /* ImmersiveView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
