@@ -16,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		423399102BB8ED0600C053FF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4253CD082BB8DEAE009CD4EA /* RealityKitDuck.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RealityKitDuck.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4253CD0C2BB8DEAE009CD4EA /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		4253CD0F2BB8DEAE009CD4EA /* RealityKitDuckApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealityKitDuckApp.swift; sourceTree = "<group>"; };
@@ -65,7 +64,6 @@
 				4253CD152BB8DEAF009CD4EA /* Assets.xcassets */,
 				4253CD1A2BB8DEAF009CD4EA /* Info.plist */,
 				4253CD172BB8DEAF009CD4EA /* Preview Content */,
-				423399102BB8ED0600C053FF /* README.md */,
 			);
 			path = RealityKitDuck;
 			sourceTree = "<group>";

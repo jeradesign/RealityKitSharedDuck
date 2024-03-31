@@ -19,7 +19,7 @@ struct ContentView: View {
 
     var body: some View {
         VStack {
-            Model3D(named: "Free_Rubber_Duck_3d_Model", bundle: realityKitContentBundle)
+            Model3D(named: "Little Duck Scene", bundle: realityKitContentBundle)
                 .padding(.bottom, 50)
 
             Text("Hello, world!")
