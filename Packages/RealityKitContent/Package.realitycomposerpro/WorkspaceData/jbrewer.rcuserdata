@@ -1,0 +1,85 @@
+{
+  "advancedEditorSelectedIdentifier" : "ProjectBrowser",
+  "openSceneRelativePaths" : [
+    "Immersive.usda",
+    "Duck Scene.usda"
+  ],
+  "recentIdentifiers" : {
+
+  },
+  "sceneCameraHistory" : {
+    "AF09ED6F-1707-48FD-8720-65B998362C09" : [
+      {
+        "date" : 733537174.830985,
+        "title" : "Untitled",
+        "transform" : [
+          1,
+          0,
+          -0,
+          0,
+          -0,
+          0.86602485,
+          -0.500001,
+          0,
+          0,
+          0.500001,
+          0.86602485,
+          0,
+          0,
+          3.4310122,
+          3.825349,
+          1
+        ]
+      }
+    ],
+    "D9EFD621-E3DA-4199-A71E-73D35EA373BF" : [
+      {
+        "date" : 733537198.297034,
+        "title" : "Untitled",
+        "transform" : [
+          0.99999994,
+          0,
+          -0,
+          0,
+          -0,
+          0.8660254,
+          -0.49999988,
+          0,
+          0,
+          0.49999988,
+          0.8660254,
+          0,
+          0,
+          0.19581392,
+          0.33915967,
+          1
+        ]
+      }
+    ],
+    "F9FFDC81-1B11-491D-B13B-AF4200A823B9" : [
+      {
+        "date" : 733538274.400112,
+        "title" : "Untitled",
+        "transform" : [
+          0.99999994,
+          0,
+          -0,
+          0,
+          -0,
+          0.8660254,
+          -0.49999994,
+          0,
+          0,
+          0.49999994,
+          0.8660254,
+          0,
+          0,
+          0.18478708,
+          0.3200606,
+          1
+        ]
+      }
+    ]
+  },
+  "selectedSceneRelativePath" : "Duck Scene.usda"
+}
