@@ -22,13 +22,27 @@ struct ContentView: View {
             Model3D(named: "Little Duck Scene", bundle: realityKitContentBundle)
                 .padding(.bottom, 50)
 
-            Text("Hello, world!")
-
-            Toggle("Show ImmersiveSpace", isOn: $showImmersiveSpace)
+            Text("RealityKit Shared Duck")
                 .font(.title)
-                .frame(width: 360)
-                .padding(24)
-                .glassBackgroundEffect()
+                .padding(.bottom, 75)
+
+            HStack {
+                Button {
+                } label: {
+                    Text("Host")
+                }
+                .padding(.trailing, 75)
+                Button {
+                } label: {
+                    Text("Join")
+                }
+            }
+
+//            Toggle("Show ImmersiveSpace", isOn: $showImmersiveSpace)
+//                .font(.title)
+//                .frame(width: 360)
+//                .padding(24)
+//                .glassBackgroundEffect()
         }
         .padding()
         .onChange(of: showImmersiveSpace) { _, newValue in
